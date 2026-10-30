@@ -1,0 +1,12 @@
+{
+  "name": "editor-reels",
+  "version": "1.0.0",
+  "description": "Edita tus Reels con IA: corta silencios, subtítulos palabra por palabra y animaciones con tu marca, con o sin cámara.",
+  "author": {
+    "name": "Eric González",
+    "url": "https://ericgonzalezf.com"
+  },
+  "homepage": "https://github.com/ericgonzalezf/editor-reels",
+  "license": "MIT",
+  "keywords": ["video", "reels", "remotion", "subtitulos", "edicion"]
+}

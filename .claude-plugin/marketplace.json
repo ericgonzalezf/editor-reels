@@ -1,0 +1,14 @@
+{
+  "name": "ericgonzalezf",
+  "description": "Plugins de Eric González (ericgonzalezf.com) para crear contenido con IA",
+  "owner": {
+    "name": "Eric González"
+  },
+  "plugins": [
+    {
+      "name": "editor-reels",
+      "source": "./plugins/editor-reels",
+      "description": "Edita tus Reels con IA: corta silencios, subtítulos palabra por palabra y animaciones con tu marca, con o sin cámara."
+    }
+  ]
+}
